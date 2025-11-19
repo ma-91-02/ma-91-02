@@ -1,6 +1,8 @@
-# 🚀 | Mohammed AL-Zurfi - Applied Application Security Penetration Tester
+# 🚀 Mohammed AL-Zurfi
 
-Highly driven Application Security (AppSec) specialist and Penetration Tester with a strong foundational background in **Computer Science (M.Sc.)** and practical experience in Full-Stack development. I leverage my development expertise to perform effective **Source Code Review** and identify complex vulnerabilities often missed by automated scanners. Seeking a challenging role as a Junior Penetration Tester focusing on Web and Mobile App Security.
+**Applied Web Penetration Tester | M.Sc. in Computer Science**
+
+Highly driven security professional with a strong foundational background in **Computer Science (M.Sc.)** and practical experience in Full-Stack development. Seeking a challenging role as a Junior Penetration Tester focusing primarily on **Web Application Security**. I leverage my development background to understand application logic and identify vulnerabilities.
 
 ---
 
@@ -12,24 +14,34 @@ Highly driven Application Security (AppSec) specialist and Penetration Tester wi
 | **University** | **Tambov State Technical University (TSTU), Russia** |
 | **Graduation Date** | July 08, 2020 |
 | **Linguistic Proficiency** | **Trilingual:** Arabic (Native), English, and Russian (Fluent). This facilitates seamless communication in diverse technical teams. |
-| **Core Specialization** | Web and Mobile Application Penetration Testing |
+| **Core Specialization** | **Web Application Penetration Testing** (Primary Focus) |
 
 ### 🎯 Penetration Testing Skillset
 
 | Area | Key Proficiencies |
 | :--- | :--- |
-| **Offensive Methodology** | Manual Pen Testing, Exploiting **OWASP Top 10** (SQLi, XSS, SSRF, IDOR), Linux PrivEsc (SUID, Sudo). |
-| **AppSec & Code Review** | Ability to audit code and identify security flaws early in the SDLC. |
-| **Tools** | **Burp Suite Professional/CE** (Intruder, Scanner), Metasploit, Nmap. |
-| **Architecture** | Understanding of **Microservices** and **Monolithic** architectures for boundary and configuration testing. |
+| **Offensive Methodology** | Manual Pen Testing, Exploiting **OWASP Top 10** (SQLi, XSS, SSRF, IDOR). |
+| **Privilege Escalation** | **Linux PrivEsc** (SUID, Sudo Misconfigs), Basic Windows Exploitation. |
+| **AppSec & Code Review** | Capability to audit code and identify security flaws (future focus area). |
+| **Architecture** | Understanding of **Microservices** and **Monolithic** architectures for boundary testing. |
+| **Operating Systems** | **Kali Linux**, **Windows** (Active Directory Fundamentals), **Parrot OS**. |
 
-### 💻 Development Expertise (The AppSec Advantage)
+### 💻 Programming Languages & Development
 
-| Technology | Detail |
+| Category | Key Proficiencies |
 | :--- | :--- |
-| **Front-End** | **React, Next.js, TypeScript** (Advanced Frameworks) |
-| **Mobile** | **React Native (Expo)** |
-| **Back-End** | **Node.js (Express)**, PHP (Familiarity with environment/config) |
+| **Scripting & Exploitation** | **Python** (Advanced for automation, scripting, and PoCs), Bash, **C** (for foundational understanding/exploits). |
+| **Web Development** | **JavaScript**, Node.js (Express), **TypeScript** (Understanding), **PHP** (Understanding). |
+| **Mobile & Frameworks** | **React, Next.js, React Native (Expo)** (Background for Security Analysis). |
+
+### 🛠️ Core Security Tools
+
+| Tool Category | Key Proficiencies |
+| :--- | :--- |
+| **Web Proxy** | **Burp Suite Professional/CE** (Intruder, Repeater, Scanner). |
+| **Scanning/Recon** | **Nmap**, Dirbuster/Gobuster, **Wireshark** (Network Analysis), Sublist3r/Amass. |
+| **Exploitation** | **Metasploit Framework**, SearchSploit. |
+| **Password Attacks** | **Hydra** / **Hashcat** (for password cracking and analysis). |
 
 ---
 
@@ -42,11 +54,11 @@ Review my practical work to see my methodology and reporting skills in action:
     * **Focus:** Detailed write-ups on complex THM/HTB machines, showcasing PrivEsc and Web exploitation.
 
 2.  ### Full-Stack E-Commerce Project
-    * **[ma-91-02/E-Commerce-Express](https://github.com/ma-91-02/E-Commerce-Express)**
+    * **[E-Commerce-Express](https://github.com/ma-91-02/E-Commerce-Express)**
     * **Focus:** Demonstrates robust full-stack development skills using **Node.js (Express)**, providing a clear context for AppSec testing against real-world applications.
 
 3.  ### Mobile Application Project
-    * **[Mobile App Projec](https://github.com/ma-91-02/ms-mobile-app)**
+    * **[Mobile App Project](https://github.com/ma-91-02/ms-mobile-app)**
     * **Focus:** Highlights mobile development expertise, a crucial skill for Mobile Application Security testing.
 
 ---
@@ -55,3 +67,4 @@ Review my practical work to see my methodology and reporting skills in action:
 
 * **[LinkedIn Profile](https://www.linkedin.com/in/mohamed-al-zurfi-352b92200/)**
 * **[Email](mailto:mohamed.91al.zurfi@gmail.com)**
+* **[TryHackMe Profile](https://tryhackme.com/p/ALZurfi.Mohammed)**
