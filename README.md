@@ -46,7 +46,7 @@ Review my practical work to see my methodology and reporting skills in action:
     * **Focus:** Demonstrates robust full-stack development skills using **Node.js (Express)**, providing a clear context for AppSec testing against real-world applications.
 
 3.  ### Mobile Application Project
-    * **[Link to a Sample Mobile App Projec](https://github.com/ma-91-02/ms-mobile-app)**
+    * **[Mobile App Projec](https://github.com/ma-91-02/ms-mobile-app)**
     * **Focus:** Highlights mobile development expertise, a crucial skill for Mobile Application Security testing.
 
 ---
