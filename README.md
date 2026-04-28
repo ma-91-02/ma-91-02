@@ -1,8 +1,10 @@
 # 🚀 Mohammed AL-Zurfi
 
-**Applied Web Penetration Tester | M.Sc. in Computer Science**
+**Junior Web Penetration Tester | Full-Stack Developer | M.Sc. in Information Systems and Technologies**
 
-Highly driven security professional with a strong foundational background in **Computer Science (M.Sc.)** and practical experience in Full-Stack development. Seeking a challenging role as a Junior Penetration Tester focusing primarily on **Web Application Security**. I leverage my development background to understand application logic and identify vulnerabilities.
+Highly motivated junior security professional with a strong academic background in **Information Systems and Technologies (M.Sc.)** and practical experience in Full-Stack development. I am seeking a Junior Penetration Tester or Junior Application Security role focused primarily on **Web Application Security**.
+
+My development background helps me understand application logic, identify vulnerabilities, and communicate clear remediation steps to developers.
 
 ---
 
@@ -13,57 +15,71 @@ Highly driven security professional with a strong foundational background in **C
 | **Academic Degree** | **M.Sc. in Information Systems and Technologies** |
 | **University** | **Tambov State Technical University (TSTU), Russia** |
 | **Graduation Date** | July 08, 2020 |
-| **Linguistic Proficiency** | **Trilingual:** Arabic (Native), English, and Russian (Fluent). This facilitates seamless communication in diverse technical teams. |
-| **Core Specialization** | **Web Application Penetration Testing** (Primary Focus) |
+| **Languages** | **Arabic** (Native), **Russian** (Fluent), **English** (Professional working proficiency) |
+| **Core Focus** | **Web Application Penetration Testing & Application Security** |
 
-### 🎯 Penetration Testing Skillset
+---
+
+## 🎯 Penetration Testing Skillset
 
 | Area | Key Proficiencies |
 | :--- | :--- |
-| **Offensive Methodology** | Manual Pen Testing, Exploiting **OWASP Top 10** (SQLi, XSS, SSRF, IDOR). |
-| **Privilege Escalation** | **Linux PrivEsc** (SUID, Sudo Misconfigs), Basic Windows Exploitation. |
-| **AppSec & Code Review** | Capability to audit code and identify security flaws (future focus area). |
-| **Architecture** | Understanding of **Microservices** and **Monolithic** architectures for boundary testing. |
-| **Operating Systems** | **Kali Linux**, **Windows** (Active Directory Fundamentals), **Parrot OS**. |
+| **Web Security Methodology** | Manual web testing, OWASP Top 10, vulnerability validation, and security reporting |
+| **Common Web Vulnerabilities** | SQL Injection, XSS, IDOR, SSRF, authentication issues, and access control flaws |
+| **Privilege Escalation** | Linux privilege escalation basics, SUID, sudo misconfigurations, and enumeration |
+| **AppSec & Code Review** | Understanding application logic and identifying security weaknesses from a developer’s perspective |
+| **Operating Systems** | Kali Linux, Linux, Windows basics |
 
-### 💻 Programming Languages & Development
+---
+
+## 💻 Programming & Development Background
 
 | Category | Key Proficiencies |
 | :--- | :--- |
-| **Scripting & Exploitation** | **Python** (Advanced for automation, scripting, and PoCs), Bash, **C** (for foundational understanding/exploits). |
-| **Web Development** | **JavaScript**, Node.js (Express), **TypeScript** (Understanding), **PHP** (Understanding). |
-| **Mobile & Frameworks** | **React, Next.js, React Native (Expo)** (Background for Security Analysis). |
+| **Scripting** | Python for automation, scripting, and security tooling; Bash basics |
+| **Web Development** | JavaScript, Node.js, Express, TypeScript basics, PHP basics |
+| **Frameworks** | React, Next.js, React Native, Expo, Laravel basics |
+| **Security Advantage** | Ability to understand how web applications are built and how vulnerabilities appear in real code |
 
-### 🛠️ Core Security Tools
+---
+
+## 🛠️ Core Security Tools
 
 | Tool Category | Key Proficiencies |
 | :--- | :--- |
-| **Web Proxy** | **Burp Suite Professional/CE** (Intruder, Repeater, Scanner). |
-| **Scanning/Recon** | **Nmap**, Dirbuster/Gobuster, **Wireshark** (Network Analysis), Sublist3r/Amass. |
-| **Exploitation** | **Metasploit Framework**, SearchSploit. |
-| **Password Attacks** | **Hydra** / **Hashcat** (for password cracking and analysis). |
+| **Web Proxy** | Burp Suite Community Edition: Repeater, Intruder, HTTP history |
+| **Scanning & Enumeration** | Nmap, Gobuster, Dirbuster, basic recon workflows |
+| **Network Analysis** | Wireshark basics |
+| **Exploitation & Research** | Metasploit Framework, SearchSploit |
+| **Password Testing** | Hydra and Hashcat basics for legal lab environments |
 
 ---
 
 ## 📚 Portfolio & Projects
 
-Review my practical work to see my methodology and reporting skills in action:
+Review my practical work to see my methodology, development background, and security reporting style.
 
-1.  ### PenTest Reports
-    * **[ma-91-02/PenTest_Lab_Reports](https://github.com/ma-91-02/PenTest_Lab_Reports)**
-    * **Focus:** Detailed write-ups on complex THM/HTB machines, showcasing PrivEsc and Web exploitation.
+### 1. PenTest Lab Reports
 
-2.  ### Full-Stack E-Commerce Project
-    * **[E-Commerce-Express](https://github.com/ma-91-02/E-Commerce-Express)**
-    * **Focus:** Demonstrates robust full-stack development skills using **Node.js (Express)**, providing a clear context for AppSec testing against real-world applications.
+**[ma-91-02/PenTest_Lab_Reports](https://github.com/ma-91-02/PenTest_Lab_Reports)**
 
-3.  ### Mobile Application Project
-    * **[Mobile App Project](https://github.com/ma-91-02/ms-mobile-app)**
-    * **Focus:** Highlights mobile development expertise, a crucial skill for Mobile Application Security testing.
+Practical TryHackMe lab reports focused on methodology, enumeration, exploitation steps, privilege escalation, and remediation notes.
+
+### 2. Full-Stack E-Commerce Project
+
+**[E-Commerce-Express](https://github.com/ma-91-02/E-Commerce-Express)**
+
+A Node.js / Express-based e-commerce project demonstrating backend development experience and providing useful context for application security testing.
+
+### 3. Mobile Application Project
+
+**[Mobile App Project](https://github.com/ma-91-02/ms-mobile-app)**
+
+A mobile application project showing React Native / Expo experience, useful for understanding mobile application structure and future mobile security testing.
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 * **[LinkedIn Profile](https://www.linkedin.com/in/mohamed-al-zurfi-352b92200/)**
 * **[Email](mailto:mohamed.91al.zurfi@gmail.com)**
