@@ -48,7 +48,7 @@ My development background helps me understand application logic, identify vulner
 | Tool Category | Key Proficiencies |
 | :--- | :--- |
 | **Web Proxy** | Burp Suite Community Edition: Repeater, Intruder, HTTP history |
-| **Scanning & Enumeration** | Nmap, Gobuster, Dirbuster, basic recon workflows |
+| **Scanning & Enumeration** | Nmap, Gobuster, ffuf (basic usage), basic recon workflows |
 | **Network Analysis** | Wireshark basics |
 | **Exploitation & Research** | Metasploit Framework, SearchSploit |
 | **Password Testing** | Hydra and Hashcat basics for legal lab environments |
