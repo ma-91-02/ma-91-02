@@ -1,8 +1,8 @@
 # 🚀 Mohammed AL-Zurfi
 
-**Junior Web Penetration Tester | Full-Stack Developer | M.Sc. in Information Systems and Technologies**
+**  Web Penetration Tester | Full-Stack Developer | M.Sc. in Information Systems and Technologies**
 
-Highly motivated junior security professional with a strong academic background in **Information Systems and Technologies (M.Sc.)** and practical experience in Full-Stack development. I am seeking a Junior Penetration Tester or Junior Application Security role focused primarily on **Web Application Security**.
+Highly motivated   security professional with a strong academic background in **Information Systems and Technologies (M.Sc.)** and practical experience in Full-Stack development. I am seeking a   Penetration Tester or   Application Security role focused primarily on **Web Application Security**.
 
 My development background helps me understand application logic, identify vulnerabilities, and communicate clear remediation steps to developers.
 
